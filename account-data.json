@@ -1,0 +1,13 @@
+{
+  "Accounts": {
+    "1": {
+      "Details": {
+        "Email": "SandstormerEmail@gmail.com",
+        "Password": "DarudeSandstorm123",
+        "Username": "Darude Sandstormer"
+      }
+    }
+  },
+  "TotalAccounts": 1,
+  "Initialized": true
+}

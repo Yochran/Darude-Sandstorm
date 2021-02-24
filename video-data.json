@@ -1,0 +1,23 @@
+{
+  "Videos": {
+    "Test-Video": {
+      "Comments": [
+        {
+          "author": "Yochran",
+          "content": "what song",
+          "replies": [
+            {
+              "content": "Darude Sandstorm",
+              "author": "Darude Sandstormer"
+            }
+          ]
+        },
+        {
+          "author": "Stupid Poop",
+          "content": "bruh moment"
+        }
+      ]
+    }
+  },
+  "Initialized": true
+}
